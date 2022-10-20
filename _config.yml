@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amirhosein Javadi"
+title                    : "Mohammadreza Alimohammadi"
 title_separator          : "-"
-name                     : &name "Amirhosein Javadi"
+name                     : &name "Mohammadreza Alimohammadi"
 description              : &description "personal description"
-url                      : Amirhosein-javadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mrzalm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Amirhosein-javadi/Amirhosein-javadi.github.io"
+repository               : "MrzAlm/MrzAlm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amirhosein"
-  avatar           : "avatar.jpg"
+  name             : "Mohammadreza"
+  avatar           : "avatar.jpeg"
   bio              : "Undergraduate student at Sharif University"
-  location         : "Iran"
+  location         : "Austria"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=R2Gsk_IAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=rXtFSfwAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Amirhosein-javadi"
+  github           : "mrzalm"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"mrezalim"
+  twitter          : "mrezalim"
   vine             :
   weibo            :
   xing             :
