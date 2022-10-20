@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a bachelor student studying Electrical Engineering at Sharif University of Technology. 
+My name is Amirhosein Javadi, and I am a 4-year Bachelor of Science student in Electrical Engineering at Sharif University of Technology (SUT).
 
 Research Interest
 ======
