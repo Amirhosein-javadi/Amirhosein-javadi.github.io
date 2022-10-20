@@ -39,20 +39,10 @@ Work experience
 Skills
 ======
 * Programming
-  * Python
-  * MATLAB
-  * Julia
-  * C
-  * R
-  * Spark
+  * Python, MATLAB, Julia, C, R, Spark
 * Document Creation
-  * LATEX
-  * Microsoft Offce
-  * Markdown
-  * Photoshop
-* Languages
-  * Persian
-  * English
+  * LATEX, Microsoft Offce, Markdown, Photoshop
+
   
 VOLUNTEER EXPERIENCE
 ======
