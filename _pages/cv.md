@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bsc Electrical Engineering, Sharif University of Technology, Tehran, Iran, 2023 (expected)
 
 Work experience
 ======
@@ -35,25 +33,15 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Teaching Asistant
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+VOLUNTEER EXPERIENCE
 ======
-* Currently signed in to 43 different slack teams
+* [HR of ReACT 2021](https://react.ee.sharif.edu/)
+* [Head of Management in the 23rd term of Resana](http://ee.sharif.edu/~resana/members/)
+* [Co-Head of ReACT 2020](http://ee.sharif.edu/~resana/react/)
