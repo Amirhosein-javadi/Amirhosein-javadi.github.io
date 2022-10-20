@@ -64,4 +64,6 @@ VOLUNTEER EXPERIENCE
 ======
 * [HR of ReACT 2021](https://react.ee.sharif.edu/)
 * [Head of Management in the 23rd term of Resana](http://ee.sharif.edu/~resana/members/)
+  - Resana is the scientific community at the Electrical Engineering department at Sharif University of Technology.
 * [Co-Head of ReACT 2020](http://ee.sharif.edu/~resana/react/)
+  - ReACT is Resana’s Annual Conference on Technology. ReACT 2020 was the first year of this conference, gathering 16 speakers from Iran and around the world to give speeches about their field of work and challenges.
