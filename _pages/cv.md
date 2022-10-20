@@ -54,12 +54,6 @@ Skills
   * Persian
   * English
   
-Teaching Asistant
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 VOLUNTEER EXPERIENCE
 ======
 * [HR of ReACT 2021](https://react.ee.sharif.edu/)
