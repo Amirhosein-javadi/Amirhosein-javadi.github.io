@@ -12,3 +12,12 @@ I'm a bachelor student studying Electrical Engineering at Sharif University of T
 
 Research Interest
 ======
+I am generally curious about the intersection of Machine Learning, Privacy, High Dimensional Statistics and Optimization. 
+
+I have worked on:
+- Nahs in CycleGAN
+- Liver Tumor Segmentation over LITS17
+- Depth Estimation in Surgery Rooms
+- Reinforcement Learning for Break-down game
+- Panorama and Video Processing
+- SEFDM Communication
