@@ -30,10 +30,10 @@ Work experience
   *  Duties included: Liver Tumor Segmentation
   *  Supervisor: Professor Mohammad Hossein Rohban
 
-*  Research Assistant: May 2021 - Apr. 2022
-  *  Sharif University of Technology (Multimedia and Signal Processing Lab)
-  *  Duties included: SEFDM Communication
-  *  Supervisor: Professor Farokh Marvasti
+* Research Assistant: May 2021 - Apr. 2022
+  * Sharif University of Technology (Multimedia and Signal Processing Lab)
+  * Duties included: SEFDM Communication
+  * Supervisor: Professor Farokh Marvasti
 
   
 Skills
