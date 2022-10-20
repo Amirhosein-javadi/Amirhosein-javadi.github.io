@@ -3,17 +3,17 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# jekyll serve. If you change this file, please restart the server process.
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammadreza Alimohammadi"
+title                    : "Amirhosein Javadi"
 title_separator          : "-"
-name                     : &name "Mohammadreza Alimohammadi"
+name                     : &name "Amirhosein Javadi"
 description              : &description "personal description"
-url                      : https://mrzalm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : Amirhosein-javadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MrzAlm/MrzAlm.github.io"
+repository               : "Amirhosein-javadi/Amirhosein-javadi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : MrezAlim
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -76,17 +76,15 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
+    # Site Author
 author:
-  name             : "Mohammadreza"
-  avatar           : "avatar.jpeg"
+  name             : "Amirhosein"
+  avatar           : "avatar.jpg"
   bio              : "Undergraduate student at Sharif University"
-  location         : "Austria"
+  location         : "Iran"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rXtFSfwAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=R2Gsk_IAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mrzalm"
+  github           : "Amirhosein-javadi"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mrezalim"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -272,9 +270,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-
-# Archives
+  # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
