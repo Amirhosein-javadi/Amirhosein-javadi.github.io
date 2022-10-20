@@ -15,24 +15,44 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Remote Research Intern: July 2022 - Present 
+  * The Chinese University of Hong Kong (CUHK)
+  * Duties included: Nash in CycleGAN
+  * Supervisor: Professor Farzan Farnia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Remote Research Intern: May 2022 - Present
+  * Technische Universitat Munchen (TUM)
+  * Duties included: Depth Prediction in Surgery Room
+  * Supervisor: Professor Nassir Navab
+
+* Research Assistant: May 2022 - Present
+  *  Sharif University of Technology (Robust and Interpretable Machine Learning Lab)
+  *  Duties included: Liver Tumor Segmentation
+  *  Supervisor: Professor Mohammad Hossein Rohban
+
+*  Research Assistant: May 2021 - Apr. 2022
+  *  Sharif University of Technology (Multimedia and Signal Processing Lab)
+  *  Duties included: SEFDM Communication
+  *  Supervisor: Professor Farokh Marvasti
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * MATLAB
+  * Julia
+  * C
+  * R
+  * Spark
+* Document Creation
+  * LATEX
+  * Microsoft Offce
+  * Markdown
+  * Photoshop
+* Languages
+  * Persian
+  * English
   
 Teaching Asistant
 ======
