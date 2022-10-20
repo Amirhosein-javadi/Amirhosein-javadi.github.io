@@ -17,10 +17,10 @@ Work experience
 ======
 * Remote Research Intern: July 2022 - Present 
   * The Chinese University of Hong Kong (CUHK)
-  * Duties included: Nash in CycleGAN
+  * Duties included: Nash equilibrium in CycleGAN
   * Supervisor: Professor Farzan Farnia
 
-* Remote Research Intern: May 2022 - Present
+* Remote Research Assistant: May 2022 - Present
   * Technische Universitat Munchen (TUM)
   * Duties included: Depth Prediction in Surgery Room
   * Supervisor: Professor Nassir Navab
