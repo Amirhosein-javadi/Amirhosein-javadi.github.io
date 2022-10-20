@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Artificial Intelligence (2x)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2022-fall-AI
