@@ -15,15 +15,18 @@ In this game you control a space ship that shoots bullets. At each frame, you ma
 
 To destroy the meteors, you have to shoot them three times and each time you shoot them their color changes until they disappear. They change color from red to orange to yellow and then they are gone. 
 
-<img src="../images/Break down.png" width="300" height="200">
+<p align="center">
+  <img src="../images/Break down.png" width="300" height="200">
+</p>
 
 ## **Face Detection Using HOG**
 The histogram of oriented gradients **(HOG)** is a feature descriptor used in computer vision and image processing for the purpose of object detection. The technique counts occurrences of gradient orientation in localized portions of an image.
 
 In this project, I implement a Face Detection model with HOG descriptor and run this model some images.
 
-<img src="../images/melli-detected-faces.jpg" width="300" height="200">
-
+<p align="center">
+  <img src="../images/melli-detected-faces.jpg" width="300" height="200">
+</p>
 
 
 
