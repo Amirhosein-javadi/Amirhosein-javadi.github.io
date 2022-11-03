@@ -20,10 +20,7 @@ To destroy the meteors, you have to shoot them three times and each time you sho
 ## **Face Detection Using HOG**
 The histogram of oriented gradients **(HOG)** is a feature descriptor used in computer vision and image processing for the purpose of object detection. The technique counts occurrences of gradient orientation in localized portions of an image.
 
-In this project, I implement a Face Detection model with HOG descriptor and run this model on three images. 
-
-
-Image: 
+In this project, I implement a Face Detection model with HOG descriptor and run this model some images.
 
 <img src="../images/melli-detected-faces.jpg" width="300" height="200">
 
