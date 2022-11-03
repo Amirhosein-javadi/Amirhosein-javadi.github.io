@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## Breakout game with Reinforcement Learning ([Link](https://github.com/Amirhosein-javadi/Amirhosein-javadi.github.io))
+## Breakout game with Reinforcement Learning ([Link]([https://github.com/Amirhosein-javadi/Amirhosein-javadi.github.io](https://github.com/Amirhosein-javadi/Artificial-Intelligence-Homeworks/tree/main/HW5/Breakout_RL)))
 
 In this project, I learned how to implement a Deep-Q-Network (DQN), and to demonstrate that, I implemented and trained a DQN and run it on an Atari game in OpenAI-Gym environment.
 
