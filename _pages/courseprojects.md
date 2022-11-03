@@ -4,7 +4,7 @@ title: "Course Projects"
 permalink: /course_projects/
 author_profile: true
 redirect_from:
-  - /resume
+  - /course_projects
 ---
 
 ## **Breakout game with Reinforcement Learning ([Link](https://github.com/Amirhosein-javadi/Artificial-Intelligence-Homeworks/tree/main/HW5/Breakout_RL))**
