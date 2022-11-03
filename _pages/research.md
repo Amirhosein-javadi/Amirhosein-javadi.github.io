@@ -3,7 +3,12 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
+## ** Generative Adversarial Networks (GAN) **
+
+
+## ** Depth Estimation in Surgical Rooms **
+
+
+## ** Liver Tumor Segmentation **
