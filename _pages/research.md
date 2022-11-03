@@ -5,10 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-## ** Generative Adversarial Networks (GAN) **
+## **Generative Adversarial Networks (GAN)**
 
 
-## ** Depth Estimation in Surgical Rooms **
+## **Depth Estimation in Surgical Rooms**
 
 
-## ** Liver Tumor Segmentation **
+## **Liver Tumor Segmentation**
+
+## **SEFDM Communication**
