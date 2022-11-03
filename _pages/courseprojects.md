@@ -53,8 +53,8 @@ I also implemeted this algorithm from scratch, which is available in [this link]
 In this project, I implemented the poisson blending algorithm from scratch. I apply my algorithm to a pair of photo. 
 
 <p align="center">
-  <img src="../images/Poisson Blending_source.jpg" width="300">
-  <img src="../images/Poisson Blending_target.jpg" width="300">
-  <img src="../images/Poisson Blending_Result.jpg" width="300">
+  <img src="../images/Poisson Blending_source.jpg" hight="300">
+  <img src="../images/Poisson Blending_target.jpg" hight="300">
+  <img src="../images/Poisson Blending_Result.jpg" hight="300">
 </p>
 
