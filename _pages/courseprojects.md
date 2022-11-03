@@ -31,7 +31,7 @@ In this project, I implement a Face Detection model with HOG descriptor and run 
 ## **Panorama and Video Processing ([link](https://github.com/Amirhosein-javadi/Panorama-and-Video-Processing-Computer-Vision))**
 In this project, I learned to create a panorama from 5 keyframes in a video. This video ([Link](https://drive.google.com/file/d/1uBBLlRxK5YRrL7Tn56Gqt-QkAZrCMWrB/view)) is taken from a boulevard full of moving cars and pedestrians while the cameraman is rotating horizontally. 
 <p align="center">
-  <img src="../images/key-frames-panorama.jpg" width="500" height="200">
+  <img src="../images/key-frames-panorama.jpg" width="502" height="212">
 </p>
 
 
