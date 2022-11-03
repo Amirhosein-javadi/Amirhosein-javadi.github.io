@@ -42,9 +42,9 @@ In addition to this, I extracted the background and forground of each frame of t
 In this project, I implemented the perspective transform with homography with RANSAC and Sift. I apply my algorithm to a pair of photo. 
 
 <p align="center">
-  <img src="../images/Homography_Img1.jpg" height="50">
-  <img src="../images/Homography_Img2.jpg" height="50">
-  <img src="../images/Homography_Result.jpg" height="50">
+  <img src="../images/Homography_Img1.jpg" width="50">
+  <img src="../images/Homography_Img2.jpg" width="50">
+  <img src="../images/Homography_Result.jpg" width="50">
 </p>
 
 I also implemeted this algorithm from scratch, which is available in [this link](https://github.com/Amirhosein-javadi/Computer-Vision-Homework/tree/main/HW1/Homography-Implementing-from-scratch). 
