@@ -25,7 +25,7 @@ The histogram of oriented gradients **(HOG)** is a feature descriptor used in co
 In this project, I implement a Face Detection model with HOG descriptor and run this model some images.
 
 <p align="center">
-  <img src="../images/melli-detected-faces.jpg" width="300" height="200">
+  <img src="../images/melli-detected-faces.jpg" width="450" height="300">
 </p>
 
 
