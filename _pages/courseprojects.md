@@ -28,7 +28,7 @@ In this project, I implement a Face Detection model with HOG descriptor and run 
   <img src="../images/melli-detected-faces.jpg" width="450">
 </p>
 
-## **Panorama and Video Processing ([link](https://github.com/Amirhosein-javadi/Panorama-and-Video-Processing-Computer-Vision))**
+## **Panorama and Video Processing ([Link](https://github.com/Amirhosein-javadi/Panorama-and-Video-Processing-Computer-Vision))**
 In this project, I learned to create a panorama from 5 keyframes in a video. This video ([Link](https://drive.google.com/file/d/1uBBLlRxK5YRrL7Tn56Gqt-QkAZrCMWrB/view)) is taken from a boulevard full of moving cars and pedestrians while the cameraman is rotating horizontally. 
 <p align="center">
   <img src="../images/key-frames-panorama.jpg" width="500">
@@ -38,7 +38,7 @@ In addition to this, I extracted the background and forground of each frame of t
 - [Background video]()
 - [Foreground video]()
 
-## **Perspective Transformation with Homography ([link](https://github.com/Amirhosein-javadi/Computer-Vision-Homework/tree/main/HW1/RANSAC%20and%20Sift))**
+## **Perspective Transformation with Homography ([Link](https://github.com/Amirhosein-javadi/Computer-Vision-Homework/tree/main/HW1/RANSAC%20and%20Sift))**
 In this project, I implemented the perspective transform with homography with RANSAC and Sift. I apply my algorithm to a pair of photo. 
 
 <p align="center">
@@ -49,7 +49,7 @@ In this project, I implemented the perspective transform with homography with RA
 
 I also implemeted this algorithm from scratch, which is available in [this link](https://github.com/Amirhosein-javadi/Computer-Vision-Homework/tree/main/HW1/Homography-Implementing-from-scratch). 
 
-## **Poisson Blending ([link](https://github.com/Amirhosein-javadi/Image-Processing-Homework/tree/main/HW5/Poisson%20Blending))**
+## **Poisson Blending ([Link](https://github.com/Amirhosein-javadi/Image-Processing-Homework/tree/main/HW5/Poisson%20Blending))**
 In this project, I implemented the poisson blending algorithm from scratch. I apply my algorithm to a pair of photo. 
 
 <p align="center">
