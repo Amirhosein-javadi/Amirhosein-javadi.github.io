@@ -34,6 +34,8 @@ In this project, I learned to create a panorama from 5 keyframes in a video. Thi
   <img src="../images/key-frames-panorama.jpg" width="502" height="212">
 </p>
 
-
+In addition to this, I extracted the background and forground of each frame of this video. 
+- [Background video]()
+- [Foreground video]()
 
 
