@@ -13,7 +13,7 @@ In a paper named [GANs May Have No Nash Equilibria](https://arxiv.org/pdf/2002.0
 In this project, I am trying to create a depth estimation in surgical room with 6 cameras. My final goal is to predict depth accurately and create a 3d model of our room.
 
 ### **Liver Tumor Segmentation**
-In this project, I am working on a neural network for liver tumor segmentation over LiTS17 datasets. My ultimate goal is to have +95% dice score. Some of my current network result is shown below. 
+In this project, I am working on a neural network for liver tumor segmentation over LiTS17 datasets. My ultimate goal is to have +95% dice score. Some of my current network result is shown below. (From Left to Right: Input Image, Ground Truth, Model Output) 
 
 <p align="center">
   <img src="../images/Lits/0_image.jpg" width="100">
