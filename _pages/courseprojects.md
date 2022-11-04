@@ -35,8 +35,8 @@ In this project, I learned to create a panorama from 5 keyframes in a video. Thi
 </p>
 
 In addition to this, I extracted the background and forground of each frame of this video. 
-- [Background video]()
-- [Foreground video]()
+- [Background video](https://www.youtube.com/watch?v=Qnf5Q8QWu5I)
+- [Foreground video](https://www.youtube.com/watch?v=N1XlOWRwfXo)
 
 ## **Perspective Transformation with Homography ([Link](https://github.com/Amirhosein-javadi/Computer-Vision-Homework/tree/main/HW1/RANSAC%20and%20Sift))**
 In this project, I implemented the perspective transform with homography with RANSAC and Sift. I apply my algorithm to a pair of photo. 
