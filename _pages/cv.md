@@ -16,17 +16,17 @@ Education
 
 Work experience
 ======
-* Remote Research Intern: July 2022 - Present 
+* Remote Research Intern: Jul. 2022 - Nov. 2022 
   * The Chinese University of Hong Kong (CUHK)
   * Duties included: Nash equilibrium in CycleGAN
   * Supervisor: Professor Farzan Farnia
 
-* Remote Research Assistant: May 2022 - Present
+* Remote Research Assistant: May 2022 - Sep. 2022
   * Technische Universitat Munchen (TUM)
   * Duties included: Depth Prediction in Surgery Room
   * Supervisor: Professor Nassir Navab
 
-* Research Assistant: May 2022 - Present
+* Research Assistant: May 2022 - Apr. 2022
   *  Sharif University of Technology (Robust and Interpretable Machine Learning Lab)
   *  Duties included: Liver Tumor Segmentation
   *  Supervisor: Professor Mohammad Hossein Rohban
