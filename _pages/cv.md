@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Bsc Electrical Engineering, Sharif University of Technology, Tehran, Iran, 2023 (expected)
+* Ph.D Electrical and Computer ENGINEERING, University of California San Diego, San Diego, 
+* Bsc Electrical Engineering, Sharif University of Technology, Tehran, Iran, 2018 - 2023
 
 Work experience
 ======
