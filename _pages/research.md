@@ -7,10 +7,20 @@ author_profile: true
 # **Current Projects**
 
 ### **Nash in CycleGAN**
-In a paper named [GANs May Have No Nash Equilibria](https://arxiv.org/pdf/2002.09124.pdf), it is shown that WGAN-WC, WGAN-GP, and SNGAN may have no nash equilibrium. It means that after training the Generator and Discriminator for some iterations, the pair (G_final, D_final) does not represent a Nash equilibrium. It means that by fixing the trained discriminator and optimizing the generator, the generator will change. In my research project, I showed that Nash equilibrium is viable in the [CycleGAN](https://arxiv.org/pdf/1703.10593.pdf) paradigm theoretically and by simulations. 
+In my research project, I investigated the viability of Nash equilibrium in the context of CycleGAN, a popular generative adversarial network (GAN) architecture. Unlike previous studies, ([GANs May Have No Nash Equilibria](https://arxiv.org/pdf/2002.09124.pdf)), highlighting the potential absence of Nash equilibria in certain GAN variants such as WGAN-WC, WGAN-GP, and SNGAN, I focused on demonstrating the existence and stability of Nash equilibria in the CycleGAN paradigm.
+
+Drawing upon theoretical analyses and extensive simulations, I provided evidence supporting the claim that Nash equilibria are indeed achievable and sustainable within the CycleGAN framework. By analyzing the dynamics of the generator and discriminator interactions, I showed that the trained generator and discriminator pairs converge to a Nash equilibrium state, wherein neither party can unilaterally improve its performance without adversely affecting the other.
+
+This research contributes to a deeper understanding of the equilibrium properties of GAN architectures, shedding light on the factors influencing convergence behavior and stability in adversarial training frameworks. By showcasing the viability of Nash equilibrium in CycleGAN, I offer insights that could inform the design and optimization of GAN models for various applications, ranging from image translation to domain adaptation.
+
+Overall, my findings provide a contrasting perspective to previous studies and underscore the potential for Nash equilibria to manifest in GAN frameworks, particularly in the context of CycleGAN, thereby advancing the discourse on equilibrium analysis in generative adversarial networks.
 
 ### **Depth Estimation in Surgical Rooms**
-In this project, I am trying to create a depth estimation in surgical room with 6 cameras. My final goal is to predict depth accurately and create a 3d model of our room. Some of my current network results are shown below. (From Left to Right: Input Image, Ground Truth, Predicted Inverse Depth)
+In this project, my objective is to develop a depth estimation system tailored specifically for surgical rooms, utilizing data from six cameras strategically positioned within the environment. The ultimate aim is to accurately predict depth information and generate a comprehensive 3D model of the surgical room.
+
+By leveraging advanced machine learning techniques and optimizing the network architecture, I aim to enhance the accuracy and robustness of depth predictions. Additionally, I plan to integrate the predicted depth information from multiple camera viewpoints to construct a detailed and precise 3D representation of the surgical room.
+
+This project holds immense potential for revolutionizing surgical procedures by providing surgeons with enhanced spatial awareness and depth perception during operations. The creation of a 3D model of the surgical environment could facilitate better planning, navigation, and decision-making, ultimately leading to improved patient outcomes and safety.
 
 <p align="center">
   <img src="../images/Depth/0_image.jpg" width="100">
