@@ -11,6 +11,8 @@ redirect_from:
 - UCSD
   - Statistical Learning I
   - Principles of Artificial Intelligence: Probabilistic Reasoning and Decision-Making
+  - Sensing and Estimation in Robotics
+  - Linear Algebra and Application
 - SUT
   - High-Dimensional Probabilistic Analysis
   - Optimization in Data Science
