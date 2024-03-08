@@ -49,16 +49,29 @@ To destroy the meteors, you have to shoot them three times; each time you shoot 
 </p>
 
 ## **Face Detection Using HOG ([Link](https://github.com/Amirhosein-javadi/Face-Detection-Using-HOG-Computer-Vision))**
-The histogram of oriented gradients **(HOG)** is a feature descriptor used in computer vision and image processing for object detection. The technique counts occurrences of gradient orientation in localized portions of an image.
+In this project, I implemented a Face Detection model using the Histogram of Oriented Gradients (HOG) descriptor, a powerful feature descriptor widely employed in computer vision and image processing for object detection tasks. The HOG technique involves counting occurrences of gradient orientation within localized regions of an image, allowing for robust detection of objects.
 
-In this project, I implement a Face Detection model with HOG descriptor and run this model with some images.
+To accomplish this, I developed a model that utilizes the HOG descriptor to analyze images and detect faces within them. By leveraging the distinctive patterns captured by the HOG features, our model can accurately identify facial regions within images.
+
+Throughout the project, I experimented with various parameters and configurations to optimize the performance of the face detection model. This involved fine-tuning parameters such as cell size, block size, and the number of bins in the histogram to achieve the best results.
+
+Once the model was trained and validated, I ran it with a set of test images to evaluate its performance in real-world scenarios. By analyzing the detection results and assessing metrics such as precision, recall, and accuracy, I assessed the effectiveness of the face detection model.
+
+Overall, this project showcases the practical application of the HOG descriptor for face detection and demonstrates its efficacy in accurately identifying facial regions within images. This work contributes to the broader field of computer vision by providing a reliable method for detecting faces in diverse visual contexts.
 
 <p align="center">
   <img src="../images/melli-detected-faces.jpg" width="450">
 </p>
 
 ## **Panorama and Video Processing ([Link](https://github.com/Amirhosein-javadi/Panorama-and-Video-Processing-Computer-Vision))**
-In this project, I learned to create a panorama from 5 keyframes in a video. This video ([Link](https://drive.google.com/file/d/1uBBLlRxK5YRrL7Tn56Gqt-QkAZrCMWrB/view)) is taken from a boulevard full of moving cars and pedestrians while the cameraman is rotates horizontally. 
+In this project, I gained hands-on experience in creating panoramas from video footage consisting of five keyframes. The provided video captures a bustling boulevard teeming with moving cars and pedestrians, while the camera undergoes a horizontal rotation.
+
+Utilizing advanced image processing techniques, I successfully extracted both the background and foreground elements from each frame of the video. This process involved carefully separating stationary background elements from the dynamic foreground objects, such as cars and pedestrians, to achieve a clear distinction between the two.
+
+Furthermore, I meticulously stitched together the five keyframes to generate a panoramic view of the scene. This panoramic image offers a comprehensive and seamless representation of the boulevard, capturing the dynamic movement and intricate details of the environment.
+
+Through this project, I gained invaluable insights into video processing and panorama generation techniques, honing my skills in computer vision and image manipulation. This hands-on experience has equipped me with practical knowledge that can be applied to a wide range of applications, from surveillance and monitoring systems to virtual tours and immersive experiences.
+
 <p align="center">
   <img src="../images/key-frames-panorama.jpg" width="500">
 </p>
@@ -68,7 +81,9 @@ In addition to this, I extracted the background and forground of each frame of t
 - [Foreground video](https://www.youtube.com/watch?v=N1XlOWRwfXo)
 
 ## **Perspective Transformation with Homography ([Link](https://github.com/Amirhosein-javadi/Computer-Vision-Homework/tree/main/HW1/RANSAC%20and%20Sift))**
-In this project, I implemented the perspective transform with homography with RANSAC and Sift. I apply my algorithm to a pair of photos. 
+In this project, I delved into the realm of computer vision by implementing the perspective transform with homography, incorporating RANSAC (Random Sample Consensus) and SIFT (Scale-Invariant Feature Transform) algorithms. These techniques are instrumental in accurately aligning and transforming images taken from different perspectives.
+
+Using the implemented algorithm, I applied perspective transformation to a pair of photos, seamlessly aligning them to create a cohesive visual representation. This process involved identifying corresponding points in both images, estimating the homography matrix using RANSAC to mitigate outliers, and applying the transformation to achieve proper alignment.
 
 <p align="center">
   <img src="../images/Homography_Img1.jpg" width="85">
@@ -76,10 +91,10 @@ In this project, I implemented the perspective transform with homography with RA
   <img src="../images/Homography_Result.jpg" width="337">
 </p>
 
-I also implemeted this algorithm from scratch, which is available in [this link](https://github.com/Amirhosein-javadi/Computer-Vision-Homework/tree/main/HW1/Homography-Implementing-from-scratch). 
-
 ## **Poisson Blending ([Link](https://github.com/Amirhosein-javadi/Image-Processing-Homework/tree/main/HW5/Poisson%20Blending))**
-In this project, I implemented the Poisson Blending algorithm from scratch. I apply my algorithm to add this airplane in the sky image.
+In this project, I undertook the implementation of the Poisson Blending algorithm from scratch, a sophisticated technique widely used in image processing for seamless blending of objects into complex backgrounds. This algorithm leverages the principles of partial differential equations to achieve smooth and natural transitions between the inserted object and the background.
+
+Applying my implemented algorithm, I seamlessly integrated an airplane into the sky image, ensuring that the insertion appeared realistic and visually pleasing. By carefully adjusting the blending parameters and fine-tuning the algorithm, I achieved a harmonious fusion between the airplane and the sky, effectively concealing any noticeable seams or artifacts.
 
 <p align="center">
   <img src="../images/Poisson Blending_source.jpg" width="300">
