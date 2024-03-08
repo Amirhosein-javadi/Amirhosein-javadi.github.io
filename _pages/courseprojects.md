@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 ## **Orientation Tracking**
-Our project focused on the development of a LiDAR-based Simultaneous Localization and Mapping (SLAM) system tailored for a differential-drive robot. By integrating encoder and IMU odometry with 2-D LiDAR scans and RGBD measurements, along with the powerful optimization capabilities of GTSAM (Graphical Models and Optimization in C++), we engineered a comprehensive solution to accurately localize the robot in its environment while simultaneously mapping its surroundings.
+Our project focused on the development of a LiDAR-based Simultaneous Localization and Mapping (SLAM) system tailored for a differential-drive robot. By integrating encoder and IMU odometry with 2-D LiDAR scans and RGBD measurements, along with the powerful optimization capabilities of GTSAM, we engineered a comprehensive solution to accurately localize the robot in its environment while simultaneously mapping its surroundings.
 
 Utilizing a combination of sensor data, our system constructs a detailed 2-D occupancy grid map, providing valuable insights into the robot's surroundings and enhancing spatial understanding. Moreover, we employed RGBD images to add color information to the map, further enriching its visual representation and aiding in navigation tasks.
 
@@ -63,9 +63,9 @@ Once the model was trained and validated, I ran it with a set of test images to 
 ## **Panorama and Video Processing ([Link](https://github.com/Amirhosein-javadi/Panorama-and-Video-Processing-Computer-Vision))**
 In this project, I gained hands-on experience in creating panoramas from video footage consisting of five keyframes. The provided video captures a bustling boulevard teeming with moving cars and pedestrians, while the camera undergoes a horizontal rotation.
 
-Utilizing advanced image processing techniques, I successfully extracted both the background and foreground elements from each frame of the video. This process involved carefully separating stationary background elements from the dynamic foreground objects, such as cars and pedestrians, to achieve a clear distinction between the two.
+Utilizing image processing techniques, I successfully extracted both the background and foreground elements from each frame of the video. This process involved carefully separating stationary background elements from the dynamic foreground objects, such as cars and pedestrians, to achieve a clear distinction between the two.
 
-Furthermore, I meticulously stitched together the five keyframes to generate a panoramic view of the scene. This panoramic image offers a comprehensive and seamless representation of the boulevard, capturing the dynamic movement and intricate details of the environment.
+Furthermore, I stitched together the five keyframes to generate a panoramic view of the scene. This panoramic image offers a comprehensive and seamless representation of the boulevard, capturing the dynamic movement and intricate details of the environment.
 
 <p align="center">
   <img src="../images/key-frames-panorama.jpg" width="500">
