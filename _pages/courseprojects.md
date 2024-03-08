@@ -44,7 +44,7 @@ The gameplay dynamics were dynamic and challenging, requiring strategic decision
 Through the implementation and training of the DQN, I aimed to teach the spaceship agent optimal decision-making strategies to survive and maximize its score in the game environment. By iteratively learning from its interactions with the game environment, the DQN gradually improved its ability to navigate the game space, evade incoming meteors, and efficiently destroy them to ensure survival.
 
 <p align="center">
-  <img src="../images/Break down.png" width="300">
+  <img src="../images/Break down.png" width="400">
 </p>
 
 ## **Face Detection Using HOG ([Link](https://github.com/Amirhosein-javadi/Face-Detection-Using-HOG-Computer-Vision))**
