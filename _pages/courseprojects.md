@@ -5,7 +5,21 @@ permalink: /course_projects/
 author_profile: true
 ---
 
+
 {% include base_path %}
+
+## **Orientation Tracking**
+Our project is centered around the precise tracking of object orientation using data gathered from Inertial Measurement Units (IMUs). We've devised a methodology that leverages IMU measurements to accurately determine the three-dimensional orientation of objects as they rotate. Going beyond simple orientation tracking, our approach extends to generating panoramic images of the object's surroundings. This added functionality greatly enhances spatial perception and visualization, making it particularly valuable in fields like robotics and virtual reality.
+
+By integrating IMU data with camera images captured from the rotating object, we're able to stitch together comprehensive visual representations of the environment. This not only provides valuable insights into the object's orientation but also offers a richer understanding of its surroundings.
+
+We've conducted extensive validation exercises, comparing our orientation tracking results against ground truth data from VICON motion capture systems. These tests ensure the reliability and accuracy of our tracking algorithm, making it suitable for a wide range of real-world applications.
+
+<p align="center">
+  <img src="../images/panorama_image_dataset_1_GT.jpg" width="300">
+  <img src="../images/panorama_image_dataset_9_GT.jpg" width="300">
+  <img src="../images/panorama_image_dataset_11_Optimizatition.jpg" width="300">
+</p>
 
 ## **Breakout game with Reinforcement Learning ([Link](https://github.com/Amirhosein-javadi/Artificial-Intelligence-Homeworks/tree/main/HW5/Breakout_RL))**
 
