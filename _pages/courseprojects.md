@@ -37,12 +37,11 @@ We've conducted extensive validation exercises, comparing our orientation tracki
 </p>
 
 ## **Breakout game with Reinforcement Learning ([Link](https://github.com/Amirhosein-javadi/Artificial-Intelligence-Homeworks/tree/main/HW5/Breakout_RL))**
+In this project, I embarked on the journey of implementing a Deep-Q-Network (DQN), a fundamental algorithm in reinforcement learning, and applied it to an Atari game within the OpenAI Gym environment. The game scenario involved controlling a spaceship capable of shooting bullets, with the objective being to evade or destroy incoming meteors colored in red.
 
-In this project, I learned how to implement a Deep-Q-Network (DQN) and to demonstrate that I implemented and trained a DQN and ran it on an Atari game in an OpenAI-Gym environment.
+The gameplay dynamics were dynamic and challenging, requiring strategic decision-making at each frame. The spaceship could perform three actions: move up, move down, or remain still. Meanwhile, red-colored meteors periodically appeared on the screen, posing imminent threats to the spaceship. To neutralize these threats, the spaceship had to shoot each meteor three times, with each shot changing the meteor's color from red to orange to yellow until it vanished.
 
-In this game, you control a spaceship that shoots bullets. At each frame, you may either move up, down or stay still. Every once in a while, some meteors colored in red show up at random at the other end of the screen, and you should avoid or destroy them. If either one of these meteors hits you, you will die!
-
-To destroy the meteors, you have to shoot them three times; each time you shoot them, their color changes until they disappear. They change color from red to orange to yellow and then are gone.
+Through the implementation and training of the DQN, I aimed to teach the spaceship agent optimal decision-making strategies to survive and maximize its score in the game environment. By iteratively learning from its interactions with the game environment, the DQN gradually improved its ability to navigate the game space, evade incoming meteors, and efficiently destroy them to ensure survival.
 
 <p align="center">
   <img src="../images/Break down.png" width="300">
@@ -57,8 +56,6 @@ Throughout the project, I experimented with various parameters and configuration
 
 Once the model was trained and validated, I ran it with a set of test images to evaluate its performance in real-world scenarios. By analyzing the detection results and assessing metrics such as precision, recall, and accuracy, I assessed the effectiveness of the face detection model.
 
-Overall, this project showcases the practical application of the HOG descriptor for face detection and demonstrates its efficacy in accurately identifying facial regions within images. This work contributes to the broader field of computer vision by providing a reliable method for detecting faces in diverse visual contexts.
-
 <p align="center">
   <img src="../images/melli-detected-faces.jpg" width="450">
 </p>
@@ -70,13 +67,10 @@ Utilizing advanced image processing techniques, I successfully extracted both th
 
 Furthermore, I meticulously stitched together the five keyframes to generate a panoramic view of the scene. This panoramic image offers a comprehensive and seamless representation of the boulevard, capturing the dynamic movement and intricate details of the environment.
 
-Through this project, I gained invaluable insights into video processing and panorama generation techniques, honing my skills in computer vision and image manipulation. This hands-on experience has equipped me with practical knowledge that can be applied to a wide range of applications, from surveillance and monitoring systems to virtual tours and immersive experiences.
-
 <p align="center">
   <img src="../images/key-frames-panorama.jpg" width="500">
 </p>
 
-In addition to this, I extracted the background and forground of each frame of this video. 
 - [Background video](https://www.youtube.com/watch?v=Qnf5Q8QWu5I)
 - [Foreground video](https://www.youtube.com/watch?v=N1XlOWRwfXo)
 
