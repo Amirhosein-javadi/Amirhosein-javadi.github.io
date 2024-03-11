@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## **Orientation Tracking ([Link](https://github.com/Amirhosein-javadi/UCSD-Courses/tree/main/ECE276/PR2))**
+## **LiDAR-Based SLAM ([Link](https://github.com/Amirhosein-javadi/UCSD-Courses/tree/main/ECE276/PR2))**
 Our project focused on the development of a LiDAR-based Simultaneous Localization and Mapping (SLAM) system tailored for a differential-drive robot. By integrating encoder and IMU odometry with 2-D LiDAR scans and RGBD measurements, along with the powerful optimization capabilities of GTSAM, we engineered a comprehensive solution to accurately localize the robot in its environment while simultaneously mapping its surroundings.
 
 Utilizing a combination of sensor data, our system constructs a detailed 2-D occupancy grid map, providing valuable insights into the robot's surroundings and enhancing spatial understanding. Moreover, we employed RGBD images to add color information to the map, further enriching its visual representation and aiding in navigation tasks.
