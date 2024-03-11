@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## **Orientation Tracking**
+## **Orientation Tracking ([Link](https://github.com/Amirhosein-javadi/UCSD-Courses/tree/main/ECE276/PR2))**
 Our project focused on the development of a LiDAR-based Simultaneous Localization and Mapping (SLAM) system tailored for a differential-drive robot. By integrating encoder and IMU odometry with 2-D LiDAR scans and RGBD measurements, along with the powerful optimization capabilities of GTSAM, we engineered a comprehensive solution to accurately localize the robot in its environment while simultaneously mapping its surroundings.
 
 Utilizing a combination of sensor data, our system constructs a detailed 2-D occupancy grid map, providing valuable insights into the robot's surroundings and enhancing spatial understanding. Moreover, we employed RGBD images to add color information to the map, further enriching its visual representation and aiding in navigation tasks.
@@ -23,7 +23,7 @@ Through rigorous testing and validation, we ensured the reliability and accuracy
 </p>
 
 
-## **Orientation Tracking**
+## **Orientation Tracking ([Link](https://github.com/Amirhosein-javadi/UCSD-Courses/tree/main/ECE276/PR1))**
 Our project is centered around the precise tracking of object orientation using data gathered from Inertial Measurement Units (IMUs). We've devised a methodology that leverages IMU measurements to accurately determine the three-dimensional orientation of objects as they rotate. Going beyond simple orientation tracking, our approach extends to generating panoramic images of the object's surroundings. This added functionality greatly enhances spatial perception and visualization, making it particularly valuable in fields like robotics and virtual reality.
 
 By integrating IMU data with camera images captured from the rotating object, we're able to stitch together comprehensive visual representations of the environment. This not only provides valuable insights into the object's orientation but also offers a richer understanding of its surroundings.
