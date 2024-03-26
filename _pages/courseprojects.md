@@ -8,7 +8,10 @@ author_profile: true
 
 {% include base_path %}
 ## **Visual-Inertial SLAM ([Link](https://github.com/Amirhosein-javadi/UCSD-Courses/tree/main/ECE276/PR3))**
-Our project aims to implement a visual-inertial simultaneous localization and mapping (SLAM) algorithm using an extended Kalman filter (EKF). This approach enables precise and robust estimation of a vehicle's trajectory by integrating data from synchronized sensors: an inertial measurement unit (IMU) and a stereo camera system. Through fusion of these sensor outputs, our algorithm can simultaneously localize the vehicle in its environment while constructing a map of surrounding landmarks.
+This project aims to develop and implement a visual-inertial simultaneous localization and mapping (SLAM) algorithm utilizing an extended Kalman filter (EKF). The proposed approach enables accurate and robust estimation of a vehicle's trajectory by integrating data from synchronized sensors, namely an inertial measurement unit (IMU) and a stereo camera system. By fusing information from these sensors, the algorithm can concurrently localize the vehicle within its environment and construct a map of surrounding landmarks. The IMU provides measurements of linear and angular velocities, while the stereo camera system captures visual feature measurements in the form of pixel coordinates of detected landmarks. The project entails the implementation of a visual-inertial SLAM algorithm using an EKF, which involves predicting the vehicle's pose based on IMU measurements and updating landmark positions based on visual feature observations. 
+
+The primary challenge involves effectively fusing data from multiple sensors while addressing uncertainties and computational complexities inherent in real-world scenarios. Visual-inertial SLAM holds significant relevance and applications in various domains such as robotics, autonomous navigation, augmented reality, and virtual reality.
+
 <p align="center">
   <img src="../images/03_Landmark_SLAM.png" width="300">
   <img src="../images/10_Landmark_SLAM.png" width="300">
