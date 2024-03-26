@@ -12,6 +12,7 @@ Our project aims to implement a visual-inertial simultaneous localization and ma
 <p align="center">
   <img src="../images/03_Landmark_SLAM.png" width="300">
   <img src="../images/10_Landmark_SLAM.png" width="300">
+  <br>
   <em>ٍ Landmark mapping via Visual-inertial SLAM </em>
 </p>
 
