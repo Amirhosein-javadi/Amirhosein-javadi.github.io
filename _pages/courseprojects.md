@@ -7,6 +7,13 @@ author_profile: true
 
 
 {% include base_path %}
+## **Visual-Inertial SLAM ([Link](https://github.com/Amirhosein-javadi/UCSD-Courses/tree/main/ECE276/PR3))**
+Our project aims to implement a visual-inertial simultaneous localization and mapping (SLAM) algorithm using an extended Kalman filter (EKF). This approach enables precise and robust estimation of a vehicle's trajectory by integrating data from synchronized sensors: an inertial measurement unit (IMU) and a stereo camera system. Through fusion of these sensor outputs, our algorithm can simultaneously localize the vehicle in its environment while constructing a map of surrounding landmarks.
+<p align="center">
+  <img src="../images/03_Landmark_SLAM.png" width="300">
+  <img src="../images/10_Landmark_SLAM.png" width="300">
+  <em>ٍ Landmark mapping via Visual-inertial SLAM </em>
+</p>
 
 ## **LiDAR-Based SLAM ([Link](https://github.com/Amirhosein-javadi/UCSD-Courses/tree/main/ECE276/PR2))**
 Our project focused on the development of a LiDAR-based Simultaneous Localization and Mapping (SLAM) system tailored for a differential-drive robot. By integrating encoder and IMU odometry with 2-D LiDAR scans and RGBD measurements, along with the powerful optimization capabilities of GTSAM, we engineered a comprehensive solution to accurately localize the robot in its environment while simultaneously mapping its surroundings.
