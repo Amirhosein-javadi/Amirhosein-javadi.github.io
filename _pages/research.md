@@ -11,8 +11,6 @@ In my research project, I investigated the viability of Nash equilibrium in the 
 
 Drawing upon theoretical analyses and extensive simulations, I provided evidence supporting the claim that Nash equilibria are indeed achievable and sustainable within the CycleGAN framework. By analyzing the dynamics of the generator and discriminator interactions, I showed that the trained generator and discriminator pairs converge to a Nash equilibrium state, wherein neither party can unilaterally improve its performance without adversely affecting the other.
 
-This research contributes to a deeper understanding of the equilibrium properties of GAN architectures, shedding light on the factors influencing convergence behavior and stability in adversarial training frameworks. By showcasing the viability of Nash equilibrium in CycleGAN, I offer insights that could inform the design and optimization of GAN models for various applications, ranging from image translation to domain adaptation.
-
 Overall, my findings provide a contrasting perspective to previous studies and underscore the potential for Nash equilibria to manifest in GAN frameworks, particularly in the context of CycleGAN, thereby advancing the discourse on equilibrium analysis in generative adversarial networks.
 
 ### **Depth Estimation in Surgical Rooms**
@@ -20,7 +18,7 @@ In this project, my objective is to develop a depth estimation system tailored s
 
 By leveraging advanced machine learning techniques and optimizing the network architecture, I aim to enhance the accuracy and robustness of depth predictions. Additionally, I plan to integrate the predicted depth information from multiple camera viewpoints to construct a detailed and precise 3D representation of the surgical room.
 
-This project holds immense potential for revolutionizing surgical procedures by providing surgeons with enhanced spatial awareness and depth perception during operations. The creation of a 3D model of the surgical environment could facilitate better planning, navigation, and decision-making, ultimately leading to improved patient outcomes and safety.
+This project holds immense potential for revolutionizing surgical procedures by providing surgeons with enhanced spatial awareness and depth perception during operations. 
 
 <p align="center">
   <img src="../images/Depth/0_image.jpg" width="100">
