@@ -9,14 +9,14 @@ main:
   - title: "Research"	
     url: /research/ 
     
-  - title: "Courses"
-    url: /courses/ 
+  # - title: "Courses"
+  #   url: /courses/ 
     
   - title: "Course Projects" 	
     url: /course_projects/
     
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "CV"
     url: /cv/
