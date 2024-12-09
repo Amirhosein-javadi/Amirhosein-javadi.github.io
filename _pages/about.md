@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirhosein Javadi, and I am a first-year Ph.D. student in Electrical and Computer Engineering at the University of California San Diego(UCSD). Prior to joining UCSD, I received a Bachelor of Science in Electrical Engineering at Sharif University of Technology (SUT) in 2023. I am generally curious about the intersection of Machine Learning, Computer Vision, and Optimization.
+My name is Amirhosein Javadi, and I am a Ph.D. student in ECE at UCSD, advised by Professor [Tara Javidi](https://tjavidi.eng.ucsd.edu). Prior to joining UCSD, I received a Bachelor of Science in Electrical Engineering from Sharif University of Technology in 2023, where I was fortunate to be advised by [Professor Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en) and [Professor Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en). I am generally curious about the intersection of Machine Learning, Computer Vision, and Optimization. 
 
 ### **Publication**
 - **[BLO-SAM: Bi-Level Optimization Based Finetuning of the Segment Anything Model for Overfitting-Preventing Semantic Segmentation](https://openreview.net/pdf?id=qRtM5EqE9l)**  
